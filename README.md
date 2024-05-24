@@ -1,5 +1,7 @@
-## DocGen demos
+#  About this repository
+This repository was set up using Salesforce CLI and has the typical project format. Apex class code can be found under force-app/main/default/classes.
 
+## DocGen demos
 ### Demo Document Templates
 This repository currently contains two data packs for demo templates in the "Demo Document Templates" folder. You can import them by clicking the "Import" button on the Document Template Designer list. Make sure to activate each template after importing them.
 
