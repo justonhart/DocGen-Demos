@@ -1,0 +1,1 @@
+sampleGetProducts.call();
